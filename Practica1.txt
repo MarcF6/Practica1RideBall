@@ -1,0 +1,3 @@
+En esta nueva práctica se ha implementado una segunda camera,
+se ha creado un minimapa que mostrara una vision del juego desde arriba
+y finalmente este minimapa se mostrara en un objeto dentro del juego usando una render texture
